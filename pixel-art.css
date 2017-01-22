@@ -1,0 +1,39 @@
+.divSquare {
+    width: 10px;
+    height: 10px;
+    border: 1px solid lightgrey;
+    float: left
+}
+
+.color {
+    margin-left: 5px;
+    margin-bottom: 3px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border: 1px solid black;
+    float: left
+}
+
+#palette {
+    padding-top: 10px;
+}
+
+#indicator {
+    width: 200px;
+    height: 40px;
+    border: 1px solid darkgrey;
+    float: left;
+    margin-left: 5px
+
+}
+#indicator-color {
+  width: 200px;
+  height: 25px;
+}
+
+#text {
+  color: brown;
+  font: arial;
+  margin-left: 5px;
+}
